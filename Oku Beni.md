@@ -1,1 +1,1 @@
-temel python öğrenme aşamasında yaptığım projeşerim.
+temel python öğrenme aşamasında yaptığım projelerim.
